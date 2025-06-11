@@ -1,4 +1,4 @@
-# devops-lifecycle
+# DevOps-lifecycle
 
 **1. Foundational DevOps Concepts**
 
