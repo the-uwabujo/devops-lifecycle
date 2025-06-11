@@ -9,6 +9,7 @@ DevOps is a cultural philosophy, a set of practices, and a collection of tools t
 At its core, DevOps emphasizes collaboration between previously siloed teams—developers, testers, system administrators, and other stakeholders. By fostering a culture of shared responsibility, transparency, and continuous feedback, DevOps helps teams respond more effectively to customer needs, improve deployment frequency, and build more stable, secure systems.
 
 **Core Principles of DevOps:**
+
 i. Collaboration – Shifts from blame culture to shared ownership, integrating security (DevSecOps) and business teams for end-to-end accountability.
 
 ii. Automation – Treats infrastructure as code (IaC) and automates everything—builds, tests, deployments, scaling—to reduce human error and accelerate workflows.
@@ -24,6 +25,7 @@ vi.Lean & Agile Mindset – Applies Agile principles to ops, focusing on deliver
 vii. Resilience & Scalability – Designs systems to self-heal (chaos engineering) and scale dynamically, ensuring reliability under demand.
 
 **2. DevOps Lifecycle Stages:**
+
 i. Planning – Establish project objectives, scope, and schedules using Agile practices (like user stories and backlogs) to bridge development and business goals.
 
 ii. Development – Create and refine code in iterative sprints, utilizing version control (Git) and collaboration platforms for streamlined workflows.
